@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="420" viewBox="0 0 400 420">
+  <rect width="400" height="420" fill="white" rx="12"/>
+  <text x="200" y="30" text-anchor="middle" font-family="Arial,sans-serif"
+        font-size="15" font-weight="bold" fill="#333">Contribution Breakdown</text>
+  <polygon points="200.0,180.0 230.0,210.0 200.0,240.0 170.0,210.0" fill="none" stroke="#ddd" stroke-width="1"/>
+<polygon points="200.0,150.0 260.0,210.0 200.0,270.0 140.0,210.0" fill="none" stroke="#ddd" stroke-width="1"/>
+<polygon points="200.0,120.0 290.0,210.0 200.0,300.0 110.0,210.0" fill="none" stroke="#ddd" stroke-width="1"/>
+<polygon points="200.0,90.0 320.0,210.0 200.0,330.0 80.0,210.0" fill="none" stroke="#ddd" stroke-width="1"/>
+
+  <line x1="200" y1="210" x2="200.0" y2="90.0" stroke="#ddd" stroke-width="1"/>
+<line x1="200" y1="210" x2="320.0" y2="210.0" stroke="#ddd" stroke-width="1"/>
+<line x1="200" y1="210" x2="200.0" y2="330.0" stroke="#ddd" stroke-width="1"/>
+<line x1="200" y1="210" x2="80.0" y2="210.0" stroke="#ddd" stroke-width="1"/>
+
+  <polygon points="200.0,90.0 200.0,210.0 200.0,210.0 200.0,210.0" fill="rgba(45,106,45,0.18)" stroke="#2d6a2d" stroke-width="2"/>
+  <circle cx="200.0" cy="90.0" r="5" fill="white" stroke="#2d6a2d" stroke-width="2"/><circle cx="200.0" cy="210.0" r="5" fill="white" stroke="#2d6a2d" stroke-width="2"/><circle cx="200.0" cy="210.0" r="5" fill="white" stroke="#2d6a2d" stroke-width="2"/><circle cx="200.0" cy="210.0" r="5" fill="white" stroke="#2d6a2d" stroke-width="2"/>
+  <text x="200.0" y="58.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#333">Commits</text>
+<text x="200.0" y="74.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#2d6a2d">100%</text>
+<text x="352.0" y="210.0" text-anchor="start" font-family="Arial,sans-serif" font-size="13" fill="#333">Pull Requests</text>
+<text x="352.0" y="226.0" text-anchor="start" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#2d6a2d">0%</text>
+<text x="200.0" y="362.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#333">Issues</text>
+<text x="200.0" y="378.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#2d6a2d">0%</text>
+<text x="48.0" y="210.0" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#333">Code Review</text>
+<text x="48.0" y="226.0" text-anchor="end" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#2d6a2d">0%</text>
+
+</svg>
