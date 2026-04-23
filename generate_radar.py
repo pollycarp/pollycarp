@@ -97,5 +97,3 @@ if __name__ == "__main__":
     stats = fetch_stats("Pollycarp", token)
     print("Stats:", stats)
     generate_svg(stats, "contribution-radar.svg")
-
----
