@@ -14,9 +14,4 @@
             user: Pollycarp
             template: classic
             base: activity, community, repositories
-            plugin_habits: yes
-            plugin_habits_from: 200
-            plugin_habits_days: 14
-            plugin_habits_charts: yes
-            plugin_habits_charts_type: radar
             filename: github-metrics.svg
